@@ -29,11 +29,11 @@ Game with number selection.
 
 ## Getting Started
 ### How to run the game?
-1 -> Clone this repo and open a terminal inside the folder where you extracted it.
-2 -> Sign up on the game platform to gain access to the game app.
-3 -> Create yourself as a player with your unique ticket number.
-4 -> Create the game and grab your board to start playing.
-5  -> The players/player can continue to play the game after getting new unique ticket. 
+1 - Clone this repo and open a terminal inside the folder where you extracted it.
+2 -Sign up on the game platform to gain access to the game app.
+3 - Create yourself as a player with your unique ticket number.
+4 -Create the game and grab your board to start playing.
+5- The players/player can continue to play the game after getting new unique ticket. 
 ### Prerequisites
 - Ruby
 - Ruby on Rails
