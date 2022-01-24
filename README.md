@@ -3,7 +3,7 @@ Game with number selection.
 
 # Marksix Game on Ruby on Rails.
 
-> This is a Mark_Six_Game made with Ruby on rails framework. A test project at GogoX in HongKong.
+> This is a Mark_Six_Game made with Ruby on rails framework.
 
 ## Project requirements
 - All user interaction and game flow are organised and disributed between models,controllers and views.
